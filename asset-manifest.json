@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/app-spa/static/css/main.f9841974.chunk.css",
+    "main.js": "/app-spa/static/js/main.4b2512cf.chunk.js",
+    "main.js.map": "/app-spa/static/js/main.4b2512cf.chunk.js.map",
+    "runtime-main.js": "/app-spa/static/js/runtime-main.7df244c1.js",
+    "runtime-main.js.map": "/app-spa/static/js/runtime-main.7df244c1.js.map",
+    "static/js/2.47f762ec.chunk.js": "/app-spa/static/js/2.47f762ec.chunk.js",
+    "static/js/2.47f762ec.chunk.js.map": "/app-spa/static/js/2.47f762ec.chunk.js.map",
+    "index.html": "/app-spa/index.html",
+    "precache-manifest.dd3aafcdfd91dd5d3a195f50b6c5d77a.js": "/app-spa/precache-manifest.dd3aafcdfd91dd5d3a195f50b6c5d77a.js",
+    "service-worker.js": "/app-spa/service-worker.js",
+    "static/css/main.f9841974.chunk.css.map": "/app-spa/static/css/main.f9841974.chunk.css.map",
+    "static/media/header1.jpg": "/app-spa/static/media/header1.70e6670e.jpg",
+    "static/media/header2.jpg": "/app-spa/static/media/header2.33eca35f.jpg",
+    "static/media/header3.jpg": "/app-spa/static/media/header3.d9d36b65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7df244c1.js",
+    "static/js/2.47f762ec.chunk.js",
+    "static/css/main.f9841974.chunk.css",
+    "static/js/main.4b2512cf.chunk.js"
+  ]
+}
